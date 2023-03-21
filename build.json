@@ -5,6 +5,12 @@
       "provisioningProfile": "f3596818-7162-4916-86eb-9304609e5114",
       "developmentTeam": "L5NXLYMC67",
       "packageType": "development"
+    },
+    "device": {
+      "codeSignIdentity": "iPhone Developer",
+      "provisioningProfile": "f3596818-7162-4916-86eb-9304609e5114",
+      "developmentTeam": "L5NXLYMC67",
+      "packageType": "development"
     }
   }
 }
