@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget android-packageName="com.karpolan.android.ionic" id="com.karpolan.ionic" ios-CFBundleIdentifier="com.karpolan.ios.ionic" version="0.3.9" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget android-packageName="fr.cirrus.aladin.dev" id="fr.cirrus.aladin.dev" ios-CFBundleIdentifier="fr.cirrus.aladin.dev" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Ionic Playground</name>
     <description>Mobile application to test features of Ionic Framework</description>
-    <author email="i@karpolan.com" href="https://karpolan.com/">Anton Karpenko</author>
+    <author email="aliss@maureva.com" href="https://www.maureva.com/">Maureva</author>
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
@@ -44,6 +44,7 @@
     <platform name="ios">
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
+        <preference name="deployment-target" value="11.0" />
         <icon height="57" src="resources/ios/icon/icon.png" width="57" />
         <icon height="114" src="resources/ios/icon/icon@2x.png" width="114" />
         <icon height="40" src="resources/ios/icon/icon-40.png" width="40" />
