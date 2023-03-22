@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget android-packageName="fr.cirrus.aladin.dev" id="fr.cirrus.aladin.dev" ios-CFBundleIdentifier="fr.cirrus.aladin.dev" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Ionic Playground</name>
+    <name>MRVA Ionic Test</name>
     <description>Mobile application to test features of Ionic Framework</description>
     <author email="aliss@maureva.com" href="https://www.maureva.com/">Maureva</author>
     <content src="index.html" />
